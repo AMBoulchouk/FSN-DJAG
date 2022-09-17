@@ -1,0 +1,31 @@
+{
+  "name": "fsn-djag",
+  "version": "1.0.0",
+  "description": "FullStack Node: De Junior a Gurú",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AMBoulchouk/FSN-DJAG.git"
+  },
+  "keywords": [
+    "Node",
+    "JS",
+    "Learning"
+  ],
+  "author": "Alex Mijail Boulchouk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AMBoulchouk/FSN-DJAG/issues"
+  },
+  "homepage": "https://github.com/AMBoulchouk/FSN-DJAG#readme",
+  "dependencies": {
+    "next": "^12.3.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
